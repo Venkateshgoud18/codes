@@ -1,2 +1,2 @@
 # codes
-These are demo codes
+These are demo codes.
